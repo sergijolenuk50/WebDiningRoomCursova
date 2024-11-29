@@ -1,0 +1,1333 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dev\\Desktop\\29.11.2024\\REACT\\WebDiningRoom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{622C10EB-A0A7-4F93-AD40-B894C4561BDF}|..\\Core\\Core.csproj|c:\\users\\dev\\desktop\\29.11.2024\\react\\core\\dto\\menudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622C10EB-A0A7-4F93-AD40-B894C4561BDF}|..\\Core\\Core.csproj|c:\\users\\dev\\desktop\\29.11.2024\\react\\core\\dto\\editmenudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\22.11.2024\\REACT\\Core\\Dto\\CreateMenuDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B3E623-4341-4600-94A9-2D738CC1AB27}|WebDiningRoom.csproj|c:\\users\\dev\\desktop\\29.11.2024\\react\\webdiningroom\\serviceextensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B3E623-4341-4600-94A9-2D738CC1AB27}|WebDiningRoom.csproj|solutionrelative:serviceextensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B3E623-4341-4600-94A9-2D738CC1AB27}|WebDiningRoom.csproj|c:\\users\\dev\\desktop\\29.11.2024\\react\\webdiningroom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B3E623-4341-4600-94A9-2D738CC1AB27}|WebDiningRoom.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\WebDiningRoom\\REACT\\Core\\Services\\BreadServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B3E623-4341-4600-94A9-2D738CC1AB27}|WebDiningRoom.csproj|c:\\users\\dev\\desktop\\29.11.2024\\react\\webdiningroom\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31B3E623-4341-4600-94A9-2D738CC1AB27}|WebDiningRoom.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B3E623-4341-4600-94A9-2D738CC1AB27}|WebDiningRoom.csproj|c:\\users\\dev\\desktop\\29.11.2024\\react\\webdiningroom\\controllers\\saladcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B3E623-4341-4600-94A9-2D738CC1AB27}|WebDiningRoom.csproj|solutionrelative:controllers\\saladcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B3E623-4341-4600-94A9-2D738CC1AB27}|WebDiningRoom.csproj|c:\\users\\dev\\desktop\\29.11.2024\\react\\webdiningroom\\controllers\\breadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B3E623-4341-4600-94A9-2D738CC1AB27}|WebDiningRoom.csproj|solutionrelative:controllers\\breadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B3E623-4341-4600-94A9-2D738CC1AB27}|WebDiningRoom.csproj|c:\\users\\dev\\desktop\\29.11.2024\\react\\webdiningroom\\controllers\\drinkccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B3E623-4341-4600-94A9-2D738CC1AB27}|WebDiningRoom.csproj|solutionrelative:controllers\\drinkccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B3E623-4341-4600-94A9-2D738CC1AB27}|WebDiningRoom.csproj|c:\\users\\dev\\desktop\\29.11.2024\\react\\webdiningroom\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B3E623-4341-4600-94A9-2D738CC1AB27}|WebDiningRoom.csproj|solutionrelative:controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Data\\Repository\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B3E623-4341-4600-94A9-2D738CC1AB27}|WebDiningRoom.csproj|c:\\users\\dev\\desktop\\29.11.2024\\react\\webdiningroom\\webdiningroom.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31B3E623-4341-4600-94A9-2D738CC1AB27}|WebDiningRoom.csproj|solutionrelative:webdiningroom.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B3E623-4341-4600-94A9-2D738CC1AB27}|WebDiningRoom.csproj|c:\\users\\dev\\desktop\\29.11.2024\\react\\webdiningroom\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31B3E623-4341-4600-94A9-2D738CC1AB27}|WebDiningRoom.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Data\\Migrations\\20241108183210_CreateProdgect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Data\\Migrations\\20241108182303_CreateProdgect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Data\\Migrations\\20241108181422_CreateProdgect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Data\\Repository\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\MapperProfiles\\AppProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Services\\SaladServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Services\\MenuServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Services\\MeatDishesServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Services\\GatnishServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Services\\FirstDishesServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Services\\BreadService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Data\\Data\\DiningRoomDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Services\\DrinkcServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Interfaces\\ISaladServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Interfaces\\IMeatDishesServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Interfaces\\IGarnishServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Interfaces\\IFirstDishesServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Interfaces\\IDrinkcServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Interfaces\\IBreadServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Interfaces\\IMenuServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\EditMenuDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\CreateMenuDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\MenuDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\CreateSaladDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\EditSaladDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\SaladDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Data\\Entities\\FirstDishes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\CreateMeatDishesDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\EditMeatDishesDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\MeatDishesDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\CreateGarnishDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\EditGarnishDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\GarnishDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\EditFirstDishesDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\DrinkcDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\BreadDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Data\\Entities\\Bread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\CreateFirstDishesDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\FirstDishesDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\EditDrinkcDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\CreateDrinkcDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\EditBreadDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\CreateBreadDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Data\\Entities\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Data\\Entities\\MeatDishes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Data\\Entities\\Garnish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Data\\Entities\\Drinkc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Data\\Data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Core\\Core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Data\\Migrations\\20241108183950_CreateProdgect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\REACT\\Data\\Entities\\Salad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Services\\DrinkcServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Services\\FirstDishesServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Services\\GarnishServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Services\\MenuServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Services\\SaladServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Interfaces\\IMeatDishesServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Services\\BreadServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Interfaces\\IBreadServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Interfaces\\IGarnishServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Interfaces\\IFirstDishesServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Data\\ServiceExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\ServiceExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Services\\MeatDishesServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\WebDiningRoom\\REACT\\Data\\Data\\DiningRoomDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\22.11.2024\\REACT\\Core\\Validators\\GarnishValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\22.11.2024\\REACT\\Data\\Entities\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\22.11.2024\\REACT\\Core\\Dto\\MenuDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\22.11.2024\\REACT\\Data\\Repository\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\22.11.2024\\REACT\\Core\\Services\\MenuServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\22.11.2024\\REACT\\Core\\Validators\\MenuValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\22.11.2024\\REACT\\Core\\Dto\\EditMenuDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuDto.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.11.2024\\REACT\\Core\\Dto\\MenuDto.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Dto\\MenuDto.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.11.2024\\REACT\\Core\\Dto\\MenuDto.cs",
+              "RelativeToolTip": "..\\Core\\Dto\\MenuDto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T16:28:17.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditMenuDto.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.11.2024\\REACT\\Core\\Dto\\EditMenuDto.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Dto\\EditMenuDto.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.11.2024\\REACT\\Core\\Dto\\EditMenuDto.cs",
+              "RelativeToolTip": "..\\Core\\Dto\\EditMenuDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T16:21:47.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "GarnishValidator.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\22.11.2024\\REACT\\Core\\Validators\\GarnishValidator.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\22.11.2024\\REACT\\Core\\Validators\\GarnishValidator.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\22.11.2024\\REACT\\Core\\Validators\\GarnishValidator.cs",
+              "RelativeToolTip": "..\\..\\..\\22.11.2024\\REACT\\Core\\Validators\\GarnishValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:41:27.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\22.11.2024\\REACT\\Data\\Entities\\Menu.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\22.11.2024\\REACT\\Data\\Entities\\Menu.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\22.11.2024\\REACT\\Data\\Entities\\Menu.cs",
+              "RelativeToolTip": "..\\..\\..\\22.11.2024\\REACT\\Data\\Entities\\Menu.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwBMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:36:15.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "MenuDto.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\22.11.2024\\REACT\\Core\\Dto\\MenuDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\22.11.2024\\REACT\\Core\\Dto\\MenuDto.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\22.11.2024\\REACT\\Core\\Dto\\MenuDto.cs",
+              "RelativeToolTip": "..\\..\\..\\22.11.2024\\REACT\\Core\\Dto\\MenuDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:35:56.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\22.11.2024\\REACT\\Data\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\22.11.2024\\REACT\\Data\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\22.11.2024\\REACT\\Data\\Repository\\IRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\22.11.2024\\REACT\\Data\\Repository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:42:34.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "MenuServices.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\22.11.2024\\REACT\\Core\\Services\\MenuServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\22.11.2024\\REACT\\Core\\Services\\MenuServices.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\22.11.2024\\REACT\\Core\\Services\\MenuServices.cs",
+              "RelativeToolTip": "..\\..\\..\\22.11.2024\\REACT\\Core\\Services\\MenuServices.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwEkAAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:14:28.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "MenuValidator.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\22.11.2024\\REACT\\Core\\Validators\\MenuValidator.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\22.11.2024\\REACT\\Core\\Validators\\MenuValidator.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\22.11.2024\\REACT\\Core\\Validators\\MenuValidator.cs",
+              "RelativeToolTip": "..\\..\\..\\22.11.2024\\REACT\\Core\\Validators\\MenuValidator.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwBYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:12:43.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateMenuDto.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\22.11.2024\\REACT\\Core\\Dto\\CreateMenuDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\22.11.2024\\REACT\\Core\\Dto\\CreateMenuDto.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\22.11.2024\\REACT\\Core\\Dto\\CreateMenuDto.cs",
+              "RelativeToolTip": "..\\..\\..\\22.11.2024\\REACT\\Core\\Dto\\CreateMenuDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:11:49.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "EditMenuDto.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\22.11.2024\\REACT\\Core\\Dto\\EditMenuDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\22.11.2024\\REACT\\Core\\Dto\\EditMenuDto.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\22.11.2024\\REACT\\Core\\Dto\\EditMenuDto.cs",
+              "RelativeToolTip": "..\\..\\..\\22.11.2024\\REACT\\Core\\Dto\\EditMenuDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:10:12.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.11.2024\\REACT\\WebDiningRoom\\ServiceExtensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "ServiceExtensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.11.2024\\REACT\\WebDiningRoom\\ServiceExtensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "ServiceExtensions\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:56:33.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BreadServices.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\WebDiningRoom\\REACT\\Core\\Services\\BreadServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\WebDiningRoom\\REACT\\Core\\Services\\BreadServices.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\WebDiningRoom\\REACT\\Core\\Services\\BreadServices.cs",
+              "RelativeToolTip": "..\\..\\..\\WebDiningRoom\\REACT\\Core\\Services\\BreadServices.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:17:09.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "MenuServices.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Services\\MenuServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\13.11.2024\\REACT\\Core\\Services\\MenuServices.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Services\\MenuServices.cs",
+              "RelativeToolTip": "..\\..\\..\\13.11.2024\\REACT\\Core\\Services\\MenuServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:53:34.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "SaladServices.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Services\\SaladServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\13.11.2024\\REACT\\Core\\Services\\SaladServices.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Services\\SaladServices.cs",
+              "RelativeToolTip": "..\\..\\..\\13.11.2024\\REACT\\Core\\Services\\SaladServices.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAA5wAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:49:23.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DrinkcController.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.11.2024\\REACT\\WebDiningRoom\\Controllers\\DrinkcController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DrinkcController.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.11.2024\\REACT\\WebDiningRoom\\Controllers\\DrinkcController.cs",
+              "RelativeToolTip": "Controllers\\DrinkcController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:11:41.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.11.2024\\REACT\\WebDiningRoom\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.11.2024\\REACT\\WebDiningRoom\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:52:43.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IMeatDishesServices.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Interfaces\\IMeatDishesServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\13.11.2024\\REACT\\Core\\Interfaces\\IMeatDishesServices.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Interfaces\\IMeatDishesServices.cs",
+              "RelativeToolTip": "..\\..\\..\\13.11.2024\\REACT\\Core\\Interfaces\\IMeatDishesServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:22:38.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BreadController.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.11.2024\\REACT\\WebDiningRoom\\Controllers\\BreadController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BreadController.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.11.2024\\REACT\\WebDiningRoom\\Controllers\\BreadController.cs",
+              "RelativeToolTip": "Controllers\\BreadController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:12:44.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaladController.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.11.2024\\REACT\\WebDiningRoom\\Controllers\\SaladController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SaladController.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.11.2024\\REACT\\WebDiningRoom\\Controllers\\SaladController.cs",
+              "RelativeToolTip": "Controllers\\SaladController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwD8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:20:26.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "DiningRoomDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\WebDiningRoom\\REACT\\Data\\Data\\DiningRoomDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\WebDiningRoom\\REACT\\Data\\Data\\DiningRoomDbContext.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\WebDiningRoom\\REACT\\Data\\Data\\DiningRoomDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\WebDiningRoom\\REACT\\Data\\Data\\DiningRoomDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:51:19.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "BreadServices.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Services\\BreadServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\13.11.2024\\REACT\\Core\\Services\\BreadServices.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Services\\BreadServices.cs",
+              "RelativeToolTip": "..\\..\\..\\13.11.2024\\REACT\\Core\\Services\\BreadServices.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAADgvysAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:48:08.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.11.2024\\REACT\\WebDiningRoom\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.11.2024\\REACT\\WebDiningRoom\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T16:54:47.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "GarnishServices.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Services\\GarnishServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\13.11.2024\\REACT\\Core\\Services\\GarnishServices.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Services\\GarnishServices.cs",
+              "RelativeToolTip": "..\\..\\..\\13.11.2024\\REACT\\Core\\Services\\GarnishServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:53:18.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "FirstDishesServices.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Services\\FirstDishesServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\13.11.2024\\REACT\\Core\\Services\\FirstDishesServices.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Services\\FirstDishesServices.cs",
+              "RelativeToolTip": "..\\..\\..\\13.11.2024\\REACT\\Core\\Services\\FirstDishesServices.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:53:09.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "DrinkcServices.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Services\\DrinkcServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\13.11.2024\\REACT\\Core\\Services\\DrinkcServices.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Services\\DrinkcServices.cs",
+              "RelativeToolTip": "..\\..\\..\\13.11.2024\\REACT\\Core\\Services\\DrinkcServices.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:53:00.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IBreadServices.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Interfaces\\IBreadServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\13.11.2024\\REACT\\Core\\Interfaces\\IBreadServices.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Interfaces\\IBreadServices.cs",
+              "RelativeToolTip": "..\\..\\..\\13.11.2024\\REACT\\Core\\Interfaces\\IBreadServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:14:23.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "IGarnishServices.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Interfaces\\IGarnishServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\13.11.2024\\REACT\\Core\\Interfaces\\IGarnishServices.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Interfaces\\IGarnishServices.cs",
+              "RelativeToolTip": "..\\..\\..\\13.11.2024\\REACT\\Core\\Interfaces\\IGarnishServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:22:27.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "IFirstDishesServices.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Interfaces\\IFirstDishesServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\13.11.2024\\REACT\\Core\\Interfaces\\IFirstDishesServices.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Interfaces\\IFirstDishesServices.cs",
+              "RelativeToolTip": "..\\..\\..\\13.11.2024\\REACT\\Core\\Interfaces\\IFirstDishesServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:22:16.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Data\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\13.11.2024\\REACT\\Data\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Data\\ServiceExtensions.cs",
+              "RelativeToolTip": "..\\..\\..\\13.11.2024\\REACT\\Data\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:39:49.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Core.csproj",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\13.11.2024\\REACT\\Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Core.csproj",
+              "RelativeToolTip": "..\\..\\..\\13.11.2024\\REACT\\Core\\Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-15T17:32:01.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\13.11.2024\\REACT\\Core\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\ServiceExtensions.cs",
+              "RelativeToolTip": "..\\..\\..\\13.11.2024\\REACT\\Core\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAArwBIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:22:32.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Data\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Data\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Data\\Repository\\Repository.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Data\\Repository\\Repository.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAkwEYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:38:00.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "MeatDishesServices.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Services\\MeatDishesServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\13.11.2024\\REACT\\Core\\Services\\MeatDishesServices.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\13.11.2024\\REACT\\Core\\Services\\MeatDishesServices.cs",
+              "RelativeToolTip": "..\\..\\..\\13.11.2024\\REACT\\Core\\Services\\MeatDishesServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:53:25.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.11.2024\\REACT\\WebDiningRoom\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.11.2024\\REACT\\WebDiningRoom\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "Controllers\\MenuController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:01:29.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MenuServices.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Services\\MenuServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Services\\MenuServices.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Services\\MenuServices.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Services\\MenuServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:00:32.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MeatDishesServices.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Services\\MeatDishesServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Services\\MeatDishesServices.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Services\\MeatDishesServices.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Services\\MeatDishesServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:00:01.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GatnishServices.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Services\\GatnishServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Services\\GatnishServices.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Services\\GatnishServices.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Services\\GatnishServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:59:12.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FirstDishesServices.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Services\\FirstDishesServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Services\\FirstDishesServices.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Services\\FirstDishesServices.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Services\\FirstDishesServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:58:08.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SaladServices.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Services\\SaladServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Services\\SaladServices.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Services\\SaladServices.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Services\\SaladServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:01:01.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BreadService.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Services\\BreadService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Services\\BreadService.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Services\\BreadService.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Services\\BreadService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:55:06.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppProfile.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\MapperProfiles\\AppProfile.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\MapperProfiles\\AppProfile.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\MapperProfiles\\AppProfile.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\MapperProfiles\\AppProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:15:48.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Data\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Data\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Data\\Repository\\IRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Data\\Repository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:35:53.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DiningRoomDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Data\\Data\\DiningRoomDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Data\\Data\\DiningRoomDbContext.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Data\\Data\\DiningRoomDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Data\\Data\\DiningRoomDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:52:43.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DrinkcServices.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Services\\DrinkcServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Services\\DrinkcServices.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Services\\DrinkcServices.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Services\\DrinkcServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:57:19.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ISaladServices.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Interfaces\\ISaladServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Interfaces\\ISaladServices.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Interfaces\\ISaladServices.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Interfaces\\ISaladServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:38:56.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IMeatDishesServices.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Interfaces\\IMeatDishesServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Interfaces\\IMeatDishesServices.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Interfaces\\IMeatDishesServices.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Interfaces\\IMeatDishesServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:38:02.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IGarnishServices.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Interfaces\\IGarnishServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Interfaces\\IGarnishServices.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Interfaces\\IGarnishServices.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Interfaces\\IGarnishServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:37:23.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IFirstDishesServices.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Interfaces\\IFirstDishesServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Interfaces\\IFirstDishesServices.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Interfaces\\IFirstDishesServices.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Interfaces\\IFirstDishesServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:36:38.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IDrinkcServices.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Interfaces\\IDrinkcServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Interfaces\\IDrinkcServices.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Interfaces\\IDrinkcServices.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Interfaces\\IDrinkcServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:35:59.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IBreadServices.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Interfaces\\IBreadServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Interfaces\\IBreadServices.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Interfaces\\IBreadServices.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Interfaces\\IBreadServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:35:21.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IMenuServices.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Interfaces\\IMenuServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Interfaces\\IMenuServices.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Interfaces\\IMenuServices.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Interfaces\\IMenuServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:34:28.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EditMenuDto.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\EditMenuDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Dto\\EditMenuDto.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\EditMenuDto.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Dto\\EditMenuDto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAABRwA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:28:41.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CreateMenuDto.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\CreateMenuDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Dto\\CreateMenuDto.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\CreateMenuDto.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Dto\\CreateMenuDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:26:33.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MenuDto.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\MenuDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Dto\\MenuDto.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\MenuDto.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Dto\\MenuDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:24:03.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CreateSaladDto.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\CreateSaladDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Dto\\CreateSaladDto.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\CreateSaladDto.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Dto\\CreateSaladDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:23:00.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EditSaladDto.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\EditSaladDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Dto\\EditSaladDto.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\EditSaladDto.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Dto\\EditSaladDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:22:29.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SaladDto.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\SaladDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Dto\\SaladDto.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\SaladDto.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Dto\\SaladDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:22:08.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FirstDishes.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Data\\Entities\\FirstDishes.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Data\\Entities\\FirstDishes.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Data\\Entities\\FirstDishes.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Data\\Entities\\FirstDishes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:52:43.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CreateMeatDishesDto.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\CreateMeatDishesDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Dto\\CreateMeatDishesDto.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\CreateMeatDishesDto.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Dto\\CreateMeatDishesDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:10:12.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EditMeatDishesDto.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\EditMeatDishesDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Dto\\EditMeatDishesDto.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\EditMeatDishesDto.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Dto\\EditMeatDishesDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:09:35.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MeatDishesDto.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\MeatDishesDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Dto\\MeatDishesDto.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\MeatDishesDto.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Dto\\MeatDishesDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:09:05.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CreateGarnishDto.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\CreateGarnishDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Dto\\CreateGarnishDto.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\CreateGarnishDto.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Dto\\CreateGarnishDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:08:15.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "EditGarnishDto.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\EditGarnishDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Dto\\EditGarnishDto.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\EditGarnishDto.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Dto\\EditGarnishDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:07:46.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GarnishDto.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\GarnishDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Dto\\GarnishDto.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\GarnishDto.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Dto\\GarnishDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:07:21.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "EditFirstDishesDto.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\EditFirstDishesDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Dto\\EditFirstDishesDto.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\EditFirstDishesDto.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Dto\\EditFirstDishesDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:00:40.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DrinkcDto.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\DrinkcDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Dto\\DrinkcDto.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\DrinkcDto.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Dto\\DrinkcDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:39:55.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BreadDto.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\BreadDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Dto\\BreadDto.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\BreadDto.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Dto\\BreadDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:27:07.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Bread.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Data\\Entities\\Bread.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Data\\Entities\\Bread.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Data\\Entities\\Bread.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Data\\Entities\\Bread.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:52:43.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CreateFirstDishesDto.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\CreateFirstDishesDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Dto\\CreateFirstDishesDto.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\CreateFirstDishesDto.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Dto\\CreateFirstDishesDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:59:36.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FirstDishesDto.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\FirstDishesDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Dto\\FirstDishesDto.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\FirstDishesDto.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Dto\\FirstDishesDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:59:08.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "EditDrinkcDto.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\EditDrinkcDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Dto\\EditDrinkcDto.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\EditDrinkcDto.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Dto\\EditDrinkcDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:56:29.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CreateDrinkcDto.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\CreateDrinkcDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Dto\\CreateDrinkcDto.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\CreateDrinkcDto.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Dto\\CreateDrinkcDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:38:04.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "EditBreadDto.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\EditBreadDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Dto\\EditBreadDto.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\EditBreadDto.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Dto\\EditBreadDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:33:22.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CreateBreadDto.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\CreateBreadDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Dto\\CreateBreadDto.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Dto\\CreateBreadDto.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Dto\\CreateBreadDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:28:34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Data\\Entities\\Menu.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Data\\Entities\\Menu.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Data\\Entities\\Menu.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Data\\Entities\\Menu.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:52:43.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "MeatDishes.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Data\\Entities\\MeatDishes.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Data\\Entities\\MeatDishes.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Data\\Entities\\MeatDishes.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Data\\Entities\\MeatDishes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:52:43.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Garnish.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Data\\Entities\\Garnish.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Data\\Entities\\Garnish.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Data\\Entities\\Garnish.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Data\\Entities\\Garnish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:52:43.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Drinkc.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Data\\Entities\\Drinkc.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Data\\Entities\\Drinkc.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Data\\Entities\\Drinkc.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Data\\Entities\\Drinkc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:52:43.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WebDiningRoom.csproj",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.11.2024\\REACT\\WebDiningRoom\\WebDiningRoom.csproj",
+              "RelativeDocumentMoniker": "WebDiningRoom.csproj",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.11.2024\\REACT\\WebDiningRoom\\WebDiningRoom.csproj",
+              "RelativeToolTip": "WebDiningRoom.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T18:12:48.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Data.csproj",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Data\\Data.csproj",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Data\\Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T17:00:40.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Core.csproj",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Core\\Core.csproj",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Core\\Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T17:58:14.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20241108183950_CreateProdgect.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Data\\Migrations\\20241108183950_CreateProdgect.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Data\\Migrations\\20241108183950_CreateProdgect.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Data\\Migrations\\20241108183950_CreateProdgect.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Data\\Migrations\\20241108183950_CreateProdgect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:39:50.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\29.11.2024\\REACT\\WebDiningRoom\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\29.11.2024\\REACT\\WebDiningRoom\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T18:41:56.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241108183210_CreateProdgect.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Data\\Migrations\\20241108183210_CreateProdgect.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Data\\Migrations\\20241108183210_CreateProdgect.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Data\\Migrations\\20241108183210_CreateProdgect.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Data\\Migrations\\20241108183210_CreateProdgect.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:32:10.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Salad.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Data\\Entities\\Salad.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Data\\Entities\\Salad.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Data\\Entities\\Salad.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Data\\Entities\\Salad.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAABRwAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:52:43.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241108182303_CreateProdgect.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Data\\Migrations\\20241108182303_CreateProdgect.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Data\\Migrations\\20241108182303_CreateProdgect.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Data\\Migrations\\20241108182303_CreateProdgect.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Data\\Migrations\\20241108182303_CreateProdgect.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:23:04.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241108181422_CreateProdgect.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\REACT\\Data\\Migrations\\20241108181422_CreateProdgect.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\REACT\\Data\\Migrations\\20241108181422_CreateProdgect.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\REACT\\Data\\Migrations\\20241108181422_CreateProdgect.cs",
+              "RelativeToolTip": "..\\..\\..\\REACT\\Data\\Migrations\\20241108181422_CreateProdgect.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:14:22.495Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
